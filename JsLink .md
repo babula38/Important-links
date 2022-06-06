@@ -8,3 +8,5 @@
 [How-to-deal-with-identity-when-testing-an-asp-net-core-application](https://geeklearning.io/how-to-deal-with-identity-when-testing-an-asp-net-core-application/)
 
 [mocking-authenticated-users](https://visualstudiomagazine.com/blogs/tool-tracker/2019/11/mocking-authenticated-users.aspx)
+
+[Re-reading ASP.Net Core request bodies with EnableBuffering()](https://devblogs.microsoft.com/dotnet/re-reading-asp-net-core-request-bodies-with-enablebuffering)
