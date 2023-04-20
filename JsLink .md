@@ -10,3 +10,7 @@
 [mocking-authenticated-users](https://visualstudiomagazine.com/blogs/tool-tracker/2019/11/mocking-authenticated-users.aspx)
 
 [Re-reading ASP.Net Core request bodies with EnableBuffering()](https://devblogs.microsoft.com/dotnet/re-reading-asp-net-core-request-bodies-with-enablebuffering)
+
+[My 2023 C# Software Developer Tool List](https://michaelscodingspot.com/developer-tools/)
+
+[Scott Hanselman's 2021 Ultimate Developer and Power Users Tool List for Windows](https://www.hanselman.com/blog/scott-hanselmans-2021-ultimate-developer-and-power-users-tool-list-for-windows)
